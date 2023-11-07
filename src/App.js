@@ -21,6 +21,7 @@ function App() {
 
           <Route path="products" element={<Prodcucts/>}>
 
+            <Route index element={<Featured/>}/>
             <Route path="featured" element={<Featured/>}/>
             <Route path="new" element={<New/>}/>
           
