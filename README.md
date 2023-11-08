@@ -14,3 +14,12 @@
   <li>useNavigate</li>
   <li>Navigate</li>
 </ul>
+
+<p>A list of things I recently learned</p>
+<ul>
+  <li>NavLink</li>
+  <li>Outlet</li>
+  <li>useLocation</li>
+  <li>useSearchParams</li>
+  <li>Navigate</li>
+</ul>
