@@ -1,6 +1,6 @@
-<h1>This is a full react router courser implementation.</h1>
+<h1>This is a full react router course implementation.</h1>
 
-<h2>What i use from react router library</h2>
+<p>What i use from react router library</p>
 <ul>
   <li>BrowserRouter</li>
   <li>Routes</li>
